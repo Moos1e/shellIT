@@ -23,5 +23,5 @@ positional arguments:
 optional arguments:
   -h, --help            show this help message and exit
   -p PORT, --port PORT  port number. Defaults to 4444 when not specified
-  -c CHOOSE [CHOOSE ...], --choose CHOOSE [CHOOSE ...]
+  -c command , --choose command 
                         which command would you like to use?
